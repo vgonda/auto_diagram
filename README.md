@@ -1,8 +1,5 @@
 # AutoDiagram
-Short description and motivation.
-
-## Usage
-How to use my plugin.
+Auto generates a diagram of your Rails models every time you run a migration
 
 ## Installation
 Add this line to your application's Gemfile:
