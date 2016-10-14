@@ -10,8 +10,8 @@ Gem::Specification.new do |s|
   s.authors     = ["Victoria Gonda"]
   s.email       = ["v.m.gonda@gmail.com"]
   s.homepage    = "https://github.com/vgonda/auto_diagram"
-  s.summary     = "Summary of AutoDiagram."
-  s.description = "Description of AutoDiagram."
+  s.summary     = "Keep your model graphs up to date"
+  s.description = "Auto generates a diagram of your Rails models every time you run a migration"
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
