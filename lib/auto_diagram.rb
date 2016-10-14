@@ -1,0 +1,3 @@
+module AutoDiagram
+  # Your code goes here...
+end
